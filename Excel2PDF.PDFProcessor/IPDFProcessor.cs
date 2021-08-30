@@ -9,6 +9,6 @@ namespace Excel2PDF.PDFProcessor
 {
     public interface IPDFProcessor
     {
-        void GenerateIntroPDF(Excel2PDFConfig config, InfoTemp infoTemp, string newFileName);
+        void GenerateIntroPDF(Excel2PDFConfig config, InfoTemp infoTemp, IntroAcroFields introTempInfo, string newFileName);
     }
 }

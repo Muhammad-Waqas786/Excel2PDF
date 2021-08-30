@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Excel2PDFConfig.cs" />
+    <Compile Include="IntroAcroFields.cs" />
     <Compile Include="InfoTemp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
